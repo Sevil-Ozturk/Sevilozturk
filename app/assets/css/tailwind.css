@@ -1,0 +1,13 @@
+@import "tailwindcss";
+@import "@nuxt/ui";
+
+/* Burada temamızı tanımlıyoruz */
+/* @theme {
+  --font-sans: system-ui, sans-serif;
+  --color-green-500: #00C16A;
+} */
+
+/* Nuxt UI için primary rengimizi yeşil yapıyoruz */
+/* :root {
+  --ui-primary: var(--color-green-500);
+} */
